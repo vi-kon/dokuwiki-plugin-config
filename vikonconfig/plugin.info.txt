@@ -1,0 +1,7 @@
+base   vikonconfig
+author Kovács Vince
+email  vincekovacs@hotmail.com
+date   2014-07-07
+name   Configuration Manager for ViKon Bootstrap 3.2 template
+desc   Manage Dokuwiki's Configuration Settings
+url    http://dokuwiki.org/plugin:vikonconfig
